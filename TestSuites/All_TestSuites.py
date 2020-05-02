@@ -1,5 +1,5 @@
 import unittest
-from Tests.E2E_HealthCard import E2EHealthCardTest
+from Tests.E2E_AddingShoes_test import E2EHealthCardTest
 from Tests.E2E_ToolsAndTrackers import E2EToolsAndTrackersTest
 from Tests.login import LoginTest
 
