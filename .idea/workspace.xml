@@ -3,25 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="37019107-89fa-4e97-b3da-c327605dc7eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/CustomerDetailsPage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/HomePage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/HomePage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/LoginPage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/ToolsAndTrackersPage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_E2EHealthCardTest_2020-04-24_20-13-15.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_E2EHealthCardTest_2020-04-24_20-15-47.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-14_15-01-44.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-14_22-43-59.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-17_16-49-10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-17_16-49-52.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-17_19-24-52.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-17_19-52-33.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_LoginTest_2020-04-17_19-53-14.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_unittest.suite._ErrorHolder_2020-04-17_18-37-39.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reports/Test_unittest.suite._ErrorHolder_2020-04-24_20-15-28.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSuites/All_TestSuites.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuites/All_TestSuites.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/E2E_HealthCard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/E2E_ToolsAndTrackers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/login.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +28,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/requirements.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="65" column="16" lean-forward="true" selection-start-line="26" selection-end-line="65" selection-end-column="16" />
+            <state relative-caret-position="975">
+              <caret line="65" column="16" selection-start-line="26" selection-end-line="65" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/homepage_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -120,6 +113,32 @@
               <item name="Onshore" type="b2602c69:ProjectViewProjectNode" />
               <item name="Onshore" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Onshore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Onshore" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Onshore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Onshore" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Onshore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Onshore" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Onshore" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Onshore" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="python3.7" type="462c0819:PsiDirectoryNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Onshore" type="b2602c69:ProjectViewProjectNode" />
@@ -321,7 +340,9 @@
       <workItem from="1587918908161" duration="927000" />
       <workItem from="1588345824183" duration="1588000" />
       <workItem from="1588352130683" duration="575000" />
-      <workItem from="1588394717202" duration="646000" />
+      <workItem from="1588394717202" duration="1192000" />
+      <workItem from="1588400371510" duration="537000" />
+      <workItem from="1588444297304" duration="257000" />
     </task>
     <servers />
   </component>
@@ -358,7 +379,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51458000" />
+    <option name="totallyTimeSpent" value="52798000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,7 +393,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.18955651" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49759614" visible="true" weight="0.19456366" />
       <window_info id="Structure" order="1" sideWeight="0.50240386" side_tool="true" weight="0.17453505" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -386,7 +407,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32962447" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1961057" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.1961057" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32962447" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32962447" />
       <window_info anchor="bottom" id="Messages" order="14" />
@@ -444,16 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/homepage_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Pages/HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -470,8 +481,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="65" column="16" lean-forward="true" selection-start-line="26" selection-end-line="65" selection-end-column="16" />
+        <state relative-caret-position="975">
+          <caret line="65" column="16" selection-start-line="26" selection-end-line="65" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/homepage_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="35" column="53" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
